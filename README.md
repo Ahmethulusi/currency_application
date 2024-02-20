@@ -1,5 +1,6 @@
 # currency_application
 
-## İn this application ,you can add available money , currency and golds  and when you want to see , you can see your current assets and ıf you are want to see currency exchange  get apı from net
+## In this application ,you can add your available money , currency and golds. You can also see your current assest and your currency exchange which the program will get api from net.
+
 
 .
